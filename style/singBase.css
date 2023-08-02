@@ -1,0 +1,14 @@
+@import url(font.css);
+/* #3F7FCE color
+*/
+
+:root{
+    --main-color: #002E5C;
+    --second-color: #5283C0;
+}
+body{
+    height: 100vh;
+    background-image: url("../media/backimg.jpeg.jpeg");
+    font-size: 15px;
+    font-family: 'Abril Fatface', cursive;
+}
