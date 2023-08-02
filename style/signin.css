@@ -1,1 +1,21 @@
 @import url(singBase.css);
+
+.divide{
+    margin-top: auto;
+    display: inline-block;
+}
+.element{
+    padding: 10 15px !important;
+}
+.login{
+    margin-bottom: 15px;
+    border: 1px solid var(--main-color);
+    border-radius: 5px;
+    padding: 5px 15px !important; 
+    text-align: center;
+    color : var(--main-color);
+}
+.login:hover{
+    color: var(--log-back-color);
+    background-color: var(--main-color);
+}
